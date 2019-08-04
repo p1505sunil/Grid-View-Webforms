@@ -20,7 +20,7 @@ CodeFile="Default.aspx.cs" Inherits="_Default" %>
 <body>
     <form id="form1" runat="server">
         <div class="container">
-            <div class="jumbotron text-center">
+            <div class="jumbotron text-center">  
                 <h1>My first ASP.NET Gridview using Bootstrap 4</h1>
                 <asp:Button ID="btnConfirm" 
 
